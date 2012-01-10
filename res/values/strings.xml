@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Square View Demo</string>
+  <string name="description">
+    The SquareView sits in the middle of the screen, taking one third of the width.
+    Rotate the screen to see how it adjusts.
+  </string>
+</resources>
