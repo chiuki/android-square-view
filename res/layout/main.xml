@@ -10,19 +10,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:orientation="horizontal" >
-    <View
-      android:layout_width="0dp"
-      android:layout_height="match_parent"
-      android:layout_weight="1" />
+    android:orientation="horizontal"
+    android:weightSum="3">
     <com.sqisland.android.square_view.SquareView
       android:layout_width="0dp"
       android:layout_height="match_parent"
       android:layout_weight="1"
       android:background="#f00" />
-    <View
-      android:layout_width="0dp"
-      android:layout_height="match_parent"
-      android:layout_weight="1" />
   </LinearLayout>
 </FrameLayout>
